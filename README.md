@@ -13,3 +13,5 @@ Cambio 3
 
 Hemos exportado un csv llamado *script_exportar.r*
 
+Hemos trabajado con datframe y la database tyr
+
