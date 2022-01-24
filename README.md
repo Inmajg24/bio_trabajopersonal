@@ -15,3 +15,6 @@ Hemos exportado un csv llamado *script_exportar.r*
 
 Hemos trabajado con datframe y la database tyr
 
+## Trabajo personal
+
+Subimos trabajo personal rmd y html
