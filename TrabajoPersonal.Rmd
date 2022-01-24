@@ -1,0 +1,33 @@
+---
+title: "Trabajopersonal_ InmaJuarez"
+author: "Inma Juarez"
+date: "24/1/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+### Analizando dataset nycflights13:: flights
+
+```{r}
+install.packages("nycflights13")
+
+library(nycflights13)
+
+vuelos <- nycflights13::flights
+```
+
+#### 1.  Encuentra todos los vuelos que llegaron más de una hora tarde de lo previsto. 
+
+```{r}
+
+```
+
+#### 2. Encuentra todos los vuelos que volaron hacia San Francisco (aeropuertos SFO y OAK)
+```{r}
+
+```
+
